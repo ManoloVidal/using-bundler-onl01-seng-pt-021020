@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-<<<<<<< HEAD
+#<<<<<<< HEAD
 #gem "rspec"
 gem 'hashie'
 gem 'sinatra', '1.4.4'
